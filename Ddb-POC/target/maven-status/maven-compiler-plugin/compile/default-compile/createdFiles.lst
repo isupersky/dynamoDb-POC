@@ -1,0 +1,3 @@
+com\sky\DdbPOC\DdbPocApplication.class
+com\sky\DdbPOC\controller\DynamoDBMapperCRUDExample.class
+com\sky\DdbPOC\entity\CatalogItem.class
